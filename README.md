@@ -1,1 +1,1 @@
-# example1
+# This function converts any number into text. using vanila JS
